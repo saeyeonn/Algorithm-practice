@@ -16,7 +16,7 @@
 <td rowspan="2">23/08/04</td>
 <td>2309</td>
 <td>일곱 난쟁이</td>
-<td>2</td>
+<td>1</td>
 <td>Seven_Dwarfs</td>
 </tr>
 <tr align="center">
@@ -26,14 +26,45 @@
 <td>Get_Divisor</td>
 </tr>
 <tr align="center">
-<td>23/08/07</td>
+<td rowspan="2">23/08/05</td>
+<td>1978</td>
+<td>소수 찾기</td>
+<td>2</td>
+<td>Find_Prime_Nums</td>
+</tr>
+<tr align="center">
+<td>2581</td>
+<td>소수</td>
+<td>2</td>
+<td>Prime_Num</td>
+</tr>
+<tr align="center">
+<td rowspan="3">23/08/07</td>
 <td>10818</td>
 <td>최소, 최대</td>
 <td>3</td>
 <td>Min_Max</td>
 </tr>
 <tr align="center">
-<td>23/08/10</td>
+<td>2693</td>
+<td>N번째 큰 수</td>
+<td>1</td>
+<td>Nth_Big_Num</td>
+</tr>
+<tr align="center">
+<td>1292</td>
+<td>쉽게 푸는 문제</td>
+<td>1</td>
+<td>Easy_Question</td>
+</tr>
+<tr align="center">
+<td rowspan="2">23/08/10</td>
+<td>2609</td>
+<td>최대공약수와 최소공배수</td>
+<td>1</td>
+<td>LCM_GCD</td>
+</tr>
+<tr align="center">
 <td>10870</td>
 <td>피보나치 수 5</td>
 <td>2</td>
@@ -52,6 +83,7 @@
 <td>3</td>
 <td>Binary_Num</td>
 </tr>
+
 <tr align="center">
 <td>-</td>
 <td>-</td>
@@ -70,39 +102,8 @@
 <td>Tier</td>
 <td>Code</td>
 </tr>
-<tr align="center">
-<td rowspan="2">23/08/05</td>
-<td>1978</td>
-<td>소수 찾기</td>
-<td>4</td>
-<td>Find_Prime_Nums</td>
-</tr>
-<tr align="center">
-<td>2581</td>
-<td>소수</td>
-<td>4</td>
-<td>Prime_Num</td>
-</tr>
-<tr align="center">
-<td rowspan="2">23/08/07</td>
-<td>1292</td>
-<td>쉽게 푸는 문제</td>
-<td>4</td>
-<td>Easy_Question</td>
-</tr>
-<tr align="center">
-<td>2693</td>
-<td>N번째 큰 수</td>
-<td>5</td>
-<td>Nth_Big_Num</td>
-</tr>
-<tr align="center">
-<td>23/08/10</td>
-<td>2609</td>
-<td>최대공약수와 최소공배수</td>
-<td>5</td>
-<td>LCM_GCD</td>
-</tr>
+
+
 <tr align="center">
 <td>-</td>
 <td>-</td>
