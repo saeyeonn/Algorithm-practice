@@ -8,9 +8,9 @@
 <tr align="center">
 <td>Date</td>
 <td>Question</td>
-<td width="30%">Title</td>
+<td>Title</td>
 <td>Tier</td>
-<td width="30%">Code</td>
+<td>Code</td>
 </tr>
 <tr align="center">
 <td rowspan="2">23/08/04</td>
