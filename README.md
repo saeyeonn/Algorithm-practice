@@ -1,6 +1,5 @@
-
-
-<div align="center"><b><font size=5>🎖️ Bac/&ltJoon> Algorithm 🎖️</font></b></div>
+<br></br>
+<center><b><span style="font-size:150%">🎖️ BAE/&lt;JOON> Algorithm 🎖️</span></b></center>
 <br>
 
 <table align="center" border="2"  width="75%">
