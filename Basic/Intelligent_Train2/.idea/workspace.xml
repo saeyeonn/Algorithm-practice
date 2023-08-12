@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b513b896-fda1-4f3a-9d65-c5a84f0cbe93" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Binary_Num/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Binary_Num/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/Fibonacci.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Intelligent_Train2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_LCM_GCD/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_LCM_GCD/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_LCM_GCD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_LCM_GCD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_LCM_GCD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_LCM_GCD/Get_LCM_GCD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_LCM_GCD/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intelligent_Train.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow_White/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow_White/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow_White/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow_White/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow_White/SnowWhite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow_White/Snow_White.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snow_White/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +75,7 @@
       <workItem from="1691689137714" duration="3000" />
       <workItem from="1691840957817" duration="766000" />
       <workItem from="1691841744794" duration="58000" />
+      <workItem from="1691845715446" duration="28000" />
     </task>
     <servers />
   </component>

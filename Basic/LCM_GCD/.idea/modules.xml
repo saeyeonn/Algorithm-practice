@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Intelligent_Train.iml" filepath="$PROJECT_DIR$/Intelligent_Train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCM_GCD.iml" filepath="$PROJECT_DIR$/LCM_GCD.iml" />
     </modules>
   </component>
 </project>
