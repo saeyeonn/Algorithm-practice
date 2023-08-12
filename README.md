@@ -1,5 +1,5 @@
 <br></br>
-<div align="center"><b><span style="font-size:150%">🎖️ BAE/&lt;JOON> Algorithm 🎖️</span></b></div>
+<h3 align="center"><b><span style="font-size:150%">🎖️ BAE/&lt;JOON> Algorithm 🎖️</span></b></h3>
 <br>
 
 <table align="center" border="1" width="80%">
