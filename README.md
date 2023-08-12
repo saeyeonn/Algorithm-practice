@@ -1,8 +1,8 @@
 <br></br>
-<center><b><span style="font-size:150%">🎖️ BAE/&lt;JOON> Algorithm 🎖️</span></b></center>
+<div align="center"><b><span style="font-size:150%">🎖️ BAE/&lt;JOON> Algorithm 🎖️</span></b></div>
 <br>
 
-<table align="center" border="2"  width="75%">
+<table align="center" border="1" width="80%">
 <tr align="center">
 <td colspan="5" height="50px"><b><font size=4>🥉 Bronze 🥉</font></b></td>
 </tr>
