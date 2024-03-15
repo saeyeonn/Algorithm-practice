@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Easy_Question/Easy_Question.iml" filepath="$PROJECT_DIR$/Easy_Question/Easy_Question.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Find_Prime_Nums/Find_Prime_Nums.iml" filepath="$PROJECT_DIR$/Find_Prime_Nums/Find_Prime_Nums.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Get_Min_Max/Get_Min_Max.iml" filepath="$PROJECT_DIR$/Get_Min_Max/Get_Min_Max.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Get_divisor/Get_divisor.iml" filepath="$PROJECT_DIR$/Get_divisor/Get_divisor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Nth_Big_Num/Nth_Big_Num.iml" filepath="$PROJECT_DIR$/Nth_Big_Num/Nth_Big_Num.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prime_Num/Prime_Num.iml" filepath="$PROJECT_DIR$/Prime_Num/Prime_Num.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Snow_White/Snow_White.iml" filepath="$PROJECT_DIR$/Snow_White/Snow_White.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/#10870 Fibonacci5/#10870 Fibonacci5.iml" filepath="$PROJECT_DIR$/Basic/#10870 Fibonacci5/#10870 Fibonacci5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/#1978 Find_Prime_Nums/#1978 Find_Prime_Nums.iml" filepath="$PROJECT_DIR$/Basic/#1978 Find_Prime_Nums/#1978 Find_Prime_Nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/#2460 Intelligent_Train2/#2460 Intelligent_Train2.iml" filepath="$PROJECT_DIR$/Basic/#2460 Intelligent_Train2/#2460 Intelligent_Train2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/#2501 Get_divisor/#2501 Get_divisor.iml" filepath="$PROJECT_DIR$/Basic/#2501 Get_divisor/#2501 Get_divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/#2581 Prime_Num/#2581 Prime_Num.iml" filepath="$PROJECT_DIR$/Basic/#2581 Prime_Num/#2581 Prime_Num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/#2609 LCM_GCD/#2609 LCM_GCD.iml" filepath="$PROJECT_DIR$/Basic/#2609 LCM_GCD/#2609 LCM_GCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/src/src.iml" filepath="$PROJECT_DIR$/Tree/src/src.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,8 @@
+.gitignore
+.idea
+*.iml
+*.xml
+/out
+/Lecture\ Code
+/Materials
+.DS_Store
