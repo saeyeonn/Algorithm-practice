@@ -1,8 +1,22 @@
 .gitignore
 .idea
-*.iml
+*/.gitignore
+*/.idea
+*/*.iml
+*/*.xml
 *.xml
-/out
-/Lecture\ Code
-/Materials
+*/out
+out
 .DS_Store
+*/.DS_Store
+/Lecture Code
+Lecture Code
+Lecture Code/*.pdf
+/Lecture\ Code/
+/Materials/*.pdf
+/Materials
+Materials
+/src
+*/src
+*.pdf
+*/*.pdf
