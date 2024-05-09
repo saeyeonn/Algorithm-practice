@@ -1,3 +1,5 @@
+package Tree;
+
 import java.util.Scanner;
 
 public class HR_HeightOfBinaryTree {
