@@ -4,11 +4,11 @@ import java.util.Scanner;
 public class OneRegister {
     static int N;
     public static void main(String[] args) {
-        OneRegisterSolution oneRegister = new OneRegisterSolution();
+        Solution register = new Solution();
         Scanner scanner = new Scanner(System.in);
         N = scanner.nextInt();
 
-        System.out.println("Minimum number of registers:" + oneRegister.getCountOfRegisters(N));
+        System.out.println("Minimum number of registers:" + register.countRegisters(N));
     }
 
 }
