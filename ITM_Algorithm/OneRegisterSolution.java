@@ -1,11 +1,11 @@
 package ITM_Algorithm;
 
-public class OneRegisterSolution {
-    protected OneRegisterSolution() {
+public class Solution {
+    protected Solution() {
 
     }
     static int min;
-    public int getCountOfRegisters(int N) {
+    public int countRegisters(int N) {
 
         /* Complete this method */
 
